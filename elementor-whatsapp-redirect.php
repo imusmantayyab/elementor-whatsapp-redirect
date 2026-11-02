@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Elementor WhatsApp Redirect
- * Plugin URI: https://github.com/imuxmantayyab/elementor-whatsapp-redirect
+ * Plugin URI: https://github.com/imusmantayyab/elementor-whatsapp-redirect
  * Description: Redirects any Elementor form to WhatsApp using a configurable phone number.
  * Version: 1.0.0
  * Author: Usman Tayyab
